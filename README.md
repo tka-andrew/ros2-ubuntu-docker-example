@@ -7,7 +7,7 @@ If you do not need Ubuntu as base image, you may refer to this [tutorial](https:
 
 ### To build this image
 ```
-./builldDockerImage.sh
+./buildDockerImage.sh
 ```
 
 ### Run a turtlesim_node
